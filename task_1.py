@@ -23,3 +23,4 @@ if count_it != 3:
     print('введено не трхзначное число')
 else:
     print(sum_value)
+print("ну и еще добавили")
