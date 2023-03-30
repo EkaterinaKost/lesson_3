@@ -10,6 +10,7 @@
 name = input('ведите ваше имя :')
 password = input('ведите ваш пароль :')
 age = int(input('ведите ваш возраст :'))
+<<<<<<< HEAD
 print(f'имя - {name}, пароль - {password}, возраст - {age}')
 n = int(input("введите трехзначное число", ))
 sum_value = 0
@@ -24,3 +25,6 @@ if count_it != 3:
 else:
     print(sum_value)
 print("ну и еще добавили")
+=======
+print(f'имя - {name}, пароль - {password}, возраст - {age}')
+>>>>>>> parent of c572cd7 (added something)
